@@ -1,0 +1,17 @@
+# Exclude development files
+src/
+examples/
+.github/
+.vscode/
+
+# Config files
+tsconfig.json
+.gitignore
+.npmignore
+
+# Tests
+test/
+__tests__/
+
+# Misc
+.DS_Store
