@@ -19,13 +19,13 @@
     "nodejs",
     "api"
   ],
-  "homepage": "https://github.com/ENGR-ABI/bybit_p2p-sdk",
+  "homepage": "https://github.com/ENGR-ABI/bybit-p2p-sdk",
   "bugs": {
-    "url": "https://github.com/ENGR-ABI/bybit_p2p-sdk/issues"
+    "url": "https://github.com/ENGR-ABI/bybit-p2p-sdk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ENGR-ABI/bybit_p2p-sdk.git"
+    "url": "git+https://github.com/ENGR-ABI/bybit-p2p-sdk.git"
   },
   "files": [
     "dist",

@@ -1,5 +1,10 @@
 # bybit-p2p-sdk
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-10.0-ea2845)](https://nestjs.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-15.0-black)](https://nextjs.org/)
+
 ## Bybit P2P API SDK for Node.js (TypeScript)
 
 `bybit-p2p-sdk` is the unofficial Node.js SDK for Bybit's P2P API, enabling seamless integration of your software solutions with Bybit's [P2P trading platform](https://www.bybit.com/en/promo/global/p2p-introduce).
@@ -134,14 +139,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Issues**: [GitHub Issues](https://github.com/ENGR-ABI/bybit_p2p-sdk/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ENGR-ABI/bybit_p2p-sdk/discussions)
+- **Issues**: [GitHub Issues](https://github.com/ENGR-ABI/bybit-p2p-sdk/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ENGR-ABI/bybit-p2p-sdk/discussions)
 
 ## 📞 Support
 
 For questions and support:
 - Check the [Documentation](#documentation) section
-- Open an [Issue](https://github.com/ENGR-ABI/bybit_p2p-sdk/issues)
+- Open an [Issue](https://github.com/ENGR-ABI/bybit-p2p-sdk/issues)
 
 ---
 
