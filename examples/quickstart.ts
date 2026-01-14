@@ -5,8 +5,8 @@ import { P2P } from '../src';
 
 const api = new P2P({
     testnet: false,
-    apiKey: "iNJlEU5P7RN8hnskpm",
-    apiSecret: "8luZSF3Bn1aBv6VuhIKXbsHbkQrZn9rv95zx",
+    apiKey: "your_api_key",
+    apiSecret: "your_secret_key",
     // loggingLevel: 'DEBUG' // Not fully implemented in this demo
 });
 
